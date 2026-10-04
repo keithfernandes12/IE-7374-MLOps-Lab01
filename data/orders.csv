@@ -1,0 +1,151 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,discount
+ORD-0001,2026-02-20,CUST-012,Sunscreen SPF 50,Beauty,4,15.49,0.0
+ORD-0002,2026-03-22,CUST-008,Python Crash Course,Books,1,32.0,0.0
+ORD-0003,2026-04-14,CUST-027,Cast Iron Skillet,Home & Kitchen,2,34.99,0.0
+ORD-0003,2026-04-14,CUST-027,Sunscreen SPF 50,Beauty,2,15.49,0.1
+ORD-0004,2026-04-30,CUST-029,Yoga Mat,Sports,1,24.99,0.2
+ORD-0005,2026-01-26,CUST-027,Atomic Habits,Books,1,16.99,0.05
+ORD-9001,2026-03-14,CUST-007,Yoga Mat,Sports,0,24.99,0.0
+ORD-0005,2026-01-26,CUST-027,Yoga Mat,Sports,1,24.99,0.0
+ORD-0005,2026-01-26,CUST-027,USB-C Charger,Electronics,3,19.99,0.05
+ORD-0006,2026-02-22,CUST-006,USB-C Charger,Electronics,1,19.99,0.0
+ORD-0006,2026-02-22,CUST-006,Face Moisturizer,Beauty,3,21.0,0.0
+ORD-0007,2026-01-10,CUST-025,Yoga Mat,Sports,4,24.99,0.0
+ORD-0008,2026-06-16,CUST-001,French Press,Home & Kitchen,2,27.95,0.0
+ORD-0009,2026-06-25,CUST-015,Sunscreen SPF 50,Beauty,3,15.49,0.0
+ORD-0009,2026-06-25,CUST-015,Face Moisturizer,Beauty,2,21.0,0.0
+ORD-0009,2026-06-25,CUST-015,Atomic Habits,Books,3,16.99,0.0
+ORD-0010,2026-04-11,CUST-006,Sunscreen SPF 50,Beauty,4,15.49,0.2
+ORD-0010,2026-04-11,CUST-006,Wireless Earbuds,Electronics,1,59.99,0.0
+ORD-0011,2026-05-11,CUST-007,Yoga Mat,Sports,2,24.99,0.2
+ORD-0011,2026-05-11,CUST-007,Cast Iron Skillet,Home & Kitchen,1,34.99,0.0
+ORD-0012,2026-01-19,CUST-006,Chef Knife,Home & Kitchen,4,39.0,0.0
+ORD-0012,2026-01-19,CUST-006,French Press,Home & Kitchen,4,27.95,0.0
+ORD-0013,2026-03-15,CUST-008,Atomic Habits,Books,4,16.99,0.0
+ORD-0014,2026-02-19,CUST-016,Atomic Habits,Books,1,16.99,0.0
+ORD-0014,2026-02-19,CUST-016,Cast Iron Skillet,Home & Kitchen,4,34.99,0.2
+ORD-0014,2026-02-19,CUST-016,Smart Watch,Electronics,3,149.0,0.0
+ORD-0015,2026-06-04,CUST-021,Water Bottle,Sports,4,12.5,0.0
+ORD-0015,2026-06-04,CUST-021,Bluetooth Speaker,Electronics,4,44.5,0.2
+ORD-0015,2026-06-04,CUST-021,Bluetooth Speaker,Electronics,1,44.5,0.05
+ORD-0016,2026-05-07,CUST-017,French Press,Home & Kitchen,4,27.95,0.2
+ORD-0017,2026-03-27,CUST-001,French Press,Home & Kitchen,4,27.95,0.0
+ORD-0018,2026-01-11,CUST-001,Designing Data-Intensive Applications,Books,2,45.99,0.0
+ORD-0018,2026-01-11,CUST-001,Water Bottle,Sports,2,12.5,0.05
+ORD-0019,2026-01-20,CUST-007,Yoga Mat,Sports,1,24.99,0.0
+ORD-0019,2026-01-20,CUST-007,Cast Iron Skillet,Home & Kitchen,2,34.99,0.0
+ORD-0019,2026-01-20,CUST-007,Wireless Earbuds,Electronics,2,59.99,0.1
+ORD-0020,2026-03-15,CUST-006,Python Crash Course,Books,3,32.0,0.2
+ORD-0021,2026-03-23,CUST-009,Atomic Habits,Books,3,16.99,0.0
+ORD-0022,2026-04-26,CUST-023,Face Moisturizer,Beauty,4,21.0,0.0
+ORD-0023,2026-03-05,CUST-007,Cast Iron Skillet,Home & Kitchen,1,34.99,0.1
+ORD-0024,2026-03-03,CUST-013,Sunscreen SPF 50,Beauty,2,15.49,0.2
+ORD-0025,2026-02-23,CUST-010,French Press,Home & Kitchen,3,27.95,0.0
+ORD-0025,2026-02-23,CUST-010,French Press,Home & Kitchen,3,27.95,0.05
+ORD-0025,2026-02-23,CUST-010,Chef Knife,Home & Kitchen,3,39.0,0.2
+ORD-0026,2026-06-28,CUST-023,Python Crash Course,Books,4,32.0,0.15
+ORD-0027,2026-06-19,CUST-020,Sunscreen SPF 50,Beauty,4,15.49,0.1
+ORD-0027,2026-06-19,CUST-020,Yoga Mat,Sports,1,24.99,0.0
+ORD-0028,2026-01-02,CUST-011,Water Bottle,Sports,1,12.5,0.0
+ORD-0029,2026-04-19,CUST-029,Face Moisturizer,Beauty,1,21.0,0.1
+ORD-0029,2026-04-19,CUST-029,Face Moisturizer,Beauty,4,21.0,0.1
+ORD-9006,2026-06-11,CUST-009,USB-C Charger,Electronics,3,19.99,-0.1
+ORD-0030,2026-02-23,CUST-027,Python Crash Course,Books,2,32.0,0.2
+ORD-0031,2026-06-26,CUST-024,Water Bottle,Sports,2,12.5,0.2
+ORD-0032,2026-01-14,CUST-019,Sunscreen SPF 50,Beauty,1,15.49,0.0
+ORD-0032,2026-01-14,CUST-019,Water Bottle,Sports,4,12.5,0.2
+ORD-0033,2026-02-26,CUST-030,Bluetooth Speaker,Electronics,1,44.5,0.2
+ORD-0033,2026-02-26,CUST-030,Smart Watch,Electronics,3,149.0,0.2
+ORD-0034,2026-06-05,CUST-027,Face Moisturizer,Beauty,2,21.0,0.0
+ORD-0035,2026-05-07,CUST-021,French Press,Home & Kitchen,2,27.95,0.0
+ORD-0035,2026-05-07,CUST-021,Water Bottle,Sports,1,12.5,0.15
+ORD-0035,2026-05-07,CUST-021,French Press,Home & Kitchen,3,27.95,0.1
+ORD-0036,2026-03-19,CUST-003,Yoga Mat,Sports,2,24.99,0.05
+ORD-0037,2026-06-26,CUST-018,Wireless Earbuds,Electronics,1,59.99,0.05
+ORD-0037,2026-06-26,CUST-018,Bluetooth Speaker,Electronics,4,44.5,0.0
+ORD-0037,2026-06-26,CUST-018,Atomic Habits,Books,3,16.99,0.2
+ORD-0038,2026-04-09,CUST-013,Sunscreen SPF 50,Beauty,1,15.49,0.1
+ORD-0038,2026-04-09,CUST-013,Face Moisturizer,Beauty,3,21.0,0.0
+ORD-0039,2026-02-19,CUST-021,Resistance Bands,Sports,4,14.99,0.05
+ORD-0039,2026-02-19,CUST-021,Resistance Bands,Sports,1,14.99,0.1
+ORD-0039,2026-02-19,CUST-021,Sunscreen SPF 50,Beauty,2,15.49,0.0
+ORD-0040,2026-05-10,CUST-020,Bluetooth Speaker,Electronics,4,44.5,0.15
+ORD-0041,2026-05-28,CUST-002,Water Bottle,Sports,2,12.5,0.05
+ORD-0041,2026-05-28,CUST-002,Water Bottle,Sports,1,12.5,0.0
+ORD-0042,2026-01-18,CUST-011,Resistance Bands,Sports,1,14.99,0.0
+ORD-9005,2026-05-27,CUST-015,Sunscreen SPF 50,Beauty,1,15.49,1.5
+ORD-0043,2026-03-19,CUST-019,French Press,Home & Kitchen,1,27.95,0.0
+ORD-0043,2026-03-19,CUST-019,Atomic Habits,Books,4,16.99,0.0
+ORD-0044,2026-03-16,CUST-006,Python Crash Course,Books,2,32.0,0.15
+ORD-0044,2026-03-16,CUST-006,Smart Watch,Electronics,4,149.0,0.0
+ORD-0044,2026-03-16,CUST-006,Water Bottle,Sports,4,12.5,0.2
+ORD-0045,2026-03-06,CUST-003,USB-C Charger,Electronics,1,19.99,0.0
+ORD-0046,2026-04-28,CUST-030,Chef Knife,Home & Kitchen,1,39.0,0.0
+ORD-0046,2026-04-28,CUST-030,Cast Iron Skillet,Home & Kitchen,2,34.99,0.0
+ORD-0047,2026-04-13,CUST-003,Cast Iron Skillet,Home & Kitchen,3,34.99,0.15
+ORD-0047,2026-04-13,CUST-003,Face Moisturizer,Beauty,4,21.0,0.15
+ORD-0047,2026-04-13,CUST-003,Face Moisturizer,Beauty,3,21.0,0.0
+ORD-0048,2026-04-10,CUST-021,Face Moisturizer,Beauty,1,21.0,0.0
+ORD-0049,2026-01-26,CUST-017,Yoga Mat,Sports,1,24.99,0.0
+ORD-0050,2026-02-04,CUST-025,Resistance Bands,Sports,2,14.99,0.05
+ORD-0050,2026-02-04,CUST-025,French Press,Home & Kitchen,3,27.95,0.05
+ORD-0051,2026-04-02,CUST-006,Resistance Bands,Sports,4,14.99,0.0
+ORD-0051,2026-04-02,CUST-006,Face Moisturizer,Beauty,3,21.0,0.0
+ORD-0052,2026-03-30,CUST-018,Wireless Earbuds,Electronics,1,59.99,0.2
+ORD-0052,2026-03-30,CUST-018,Water Bottle,Sports,2,12.5,0.0
+ORD-0053,2026-01-14,CUST-028,Bluetooth Speaker,Electronics,1,44.5,0.1
+ORD-0053,2026-01-14,CUST-028,Cast Iron Skillet,Home & Kitchen,3,34.99,0.05
+ORD-0053,2026-01-14,CUST-028,Sunscreen SPF 50,Beauty,1,15.49,0.15
+ORD-0054,2026-01-28,CUST-025,Sunscreen SPF 50,Beauty,3,15.49,0.05
+ORD-0055,2026-04-17,CUST-002,Face Moisturizer,Beauty,1,21.0,0.2
+ORD-0055,2026-04-17,CUST-002,Wireless Earbuds,Electronics,4,59.99,0.0
+ORD-0055,2026-04-17,CUST-002,Cast Iron Skillet,Home & Kitchen,3,34.99,0.2
+ORD-0056,2026-02-09,CUST-024,French Press,Home & Kitchen,4,27.95,0.0
+ORD-0057,2026-04-07,CUST-020,Face Moisturizer,Beauty,1,21.0,0.1
+ORD-0057,2026-04-07,CUST-020,Atomic Habits,Books,3,16.99,0.05
+ORD-0057,2026-04-07,CUST-020,Face Moisturizer,Beauty,2,21.0,0.0
+ORD-0058,2026-06-20,CUST-025,Water Bottle,Sports,3,12.5,0.0
+ORD-0058,2026-06-20,CUST-025,Resistance Bands,Sports,1,14.99,0.2
+ORD-0059,2026-01-07,CUST-014,Atomic Habits,Books,4,16.99,0.1
+ORD-9003,2026-04-19,CUST-003,Chef Knife,Home & Kitchen,1,,0.0
+ORD-0059,2026-01-07,CUST-014,Designing Data-Intensive Applications,Books,2,45.99,0.0
+ORD-0059,2026-01-07,CUST-014,Cast Iron Skillet,Home & Kitchen,1,34.99,0.0
+ORD-0060,2026-03-31,CUST-027,Atomic Habits,Books,2,16.99,0.0
+ORD-0060,2026-03-31,CUST-027,Sunscreen SPF 50,Beauty,3,15.49,0.15
+ORD-0061,2026-01-22,CUST-018,USB-C Charger,Electronics,2,19.99,0.2
+ORD-0061,2026-01-22,CUST-018,Designing Data-Intensive Applications,Books,1,45.99,0.0
+ORD-0061,2026-01-22,CUST-018,Bluetooth Speaker,Electronics,2,44.5,0.05
+ORD-0062,2026-05-02,CUST-011,Atomic Habits,Books,1,16.99,0.0
+ORD-0063,2026-06-09,CUST-021,Chef Knife,Home & Kitchen,1,39.0,0.0
+ORD-0064,2026-04-09,CUST-011,Python Crash Course,Books,2,32.0,0.05
+ORD-0064,2026-04-09,CUST-011,Face Moisturizer,Beauty,2,21.0,0.05
+ORD-0065,2026-06-28,CUST-029,Chef Knife,Home & Kitchen,1,39.0,0.05
+ORD-0065,2026-06-28,CUST-029,Sunscreen SPF 50,Beauty,1,15.49,0.0
+ORD-0066,2026-05-03,CUST-009,Water Bottle,Sports,2,12.5,0.05
+ORD-9004,2026-05-08,CUST-021,Atomic Habits,Books,2,-16.99,0.0
+ORD-0066,2026-05-03,CUST-009,Chef Knife,Home & Kitchen,4,39.0,0.0
+ORD-0066,2026-05-03,CUST-009,Atomic Habits,Books,4,16.99,0.0
+ORD-0067,2026-03-28,CUST-026,Designing Data-Intensive Applications,Books,1,45.99,0.0
+ORD-0067,2026-03-28,CUST-026,Face Moisturizer,Beauty,3,21.0,0.0
+ORD-0068,2026-05-25,CUST-009,Sunscreen SPF 50,Beauty,4,15.49,0.05
+ORD-0068,2026-05-25,CUST-009,Yoga Mat,Sports,3,24.99,0.15
+ORD-0069,2026-05-29,CUST-029,Resistance Bands,Sports,2,14.99,0.0
+ORD-0070,2026-03-12,CUST-014,USB-C Charger,Electronics,3,19.99,0.0
+ORD-0071,2026-02-09,CUST-011,Cast Iron Skillet,Home & Kitchen,2,34.99,0.15
+ORD-0071,2026-02-09,CUST-011,Python Crash Course,Books,3,32.0,0.0
+ORD-0071,2026-02-09,CUST-011,Resistance Bands,Sports,1,14.99,0.1
+ORD-0072,2026-03-09,CUST-002,Face Moisturizer,Beauty,4,21.0,0.0
+ORD-0072,2026-03-09,CUST-002,Wireless Earbuds,Electronics,4,59.99,0.2
+ORD-0073,2026-01-08,CUST-026,Wireless Earbuds,Electronics,3,59.99,0.2
+ORD-0074,2026-02-15,CUST-018,Chef Knife,Home & Kitchen,2,39.0,0.1
+ORD-0074,2026-02-15,CUST-018,Water Bottle,Sports,2,12.5,0.2
+ORD-0075,2026-05-25,CUST-011,Wireless Earbuds,Electronics,1,59.99,0.2
+ORD-0075,2026-05-25,CUST-011,Sunscreen SPF 50,Beauty,2,15.49,0.2
+ORD-0076,2026-04-30,CUST-007,Designing Data-Intensive Applications,Books,3,45.99,0.15
+ORD-9002,2026-04-02,CUST-012,Smart Watch,Electronics,-2,149.0,0.0
+ORD-0077,2026-02-10,CUST-020,Resistance Bands,Sports,2,14.99,0.0
+ORD-0077,2026-02-10,CUST-020,Sunscreen SPF 50,Beauty,1,15.49,0.0
+ORD-0078,2026-02-12,CUST-028,Face Moisturizer,Beauty,2,21.0,0.05
+ORD-0079,2026-03-03,CUST-027,Yoga Mat,Sports,1,24.99,0.0
+ORD-0079,2026-03-03,CUST-027,French Press,Home & Kitchen,2,27.95,0.0
+ORD-0080,2026-06-01,CUST-001,Water Bottle,Sports,3,12.5,0.1
