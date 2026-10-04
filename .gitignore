@@ -1,0 +1,8 @@
+# Virtual environment
+IE-7374-MLOps-Lab01/
+
+# Python cache and test output
+__pycache__/
+*.pyc
+.pytest_cache/
+pytest-report.xml
